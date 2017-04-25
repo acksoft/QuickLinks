@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/quickLinks/QuickLinksWebPart.js",
+      "manifest": "./src/webparts/quickLinks/QuickLinksWebPart.manifest.json",
+      "outputPath": "./dist/quick-links.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "quickLinksStrings": "webparts/quickLinks/loc/{locale}.js"
+  }
+}

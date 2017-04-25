@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "quick-links-client-side-solution",
+    "id": "933b7f08-735e-48d5-bcc3-3660060fbdd9",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/quick-links.sppkg"
+  }
+}

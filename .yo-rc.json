@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "quick-links",
+    "framework": "none",
+    "version": "1.0.2",
+    "libraryId": "933b7f08-735e-48d5-bcc3-3660060fbdd9"
+  }
+}

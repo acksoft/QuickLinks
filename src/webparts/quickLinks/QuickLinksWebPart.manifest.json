@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "13f86250-30e1-4250-b2d2-f7651a9dd6a5",
+  "alias": "QuickLinksWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "13f86250-30e1-4250-b2d2-f7651a9dd6a5",
+    "group": { "default": "Under Development" },
+    "title": { "default": "QuickLinks" },
+    "description": { "default": "QuickLinks Web Part" },
+    "officeFabricIconFontName": "Link",
+    "properties": {
+      "description": "QuickLinks"
+    }
+  }]
+}
